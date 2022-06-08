@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian
-- 👀 I’m interested in Building Synths and Samplerinstruments
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on Synthstuff
+- 👀 I’m a full stack developer with the focus on frontend
+- 🌱 I’m currently learning postgresql
+- 💞️ I’m looking for freelance jobs!
 - 📫 How to reach me christian.grothe@posteo.de
 
 <!---
